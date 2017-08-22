@@ -4,8 +4,8 @@
 
 include ('line-bot-api/php/line-bot.php');
 
-$channelSecret = '551ec4feee0.....43cff0';
-$access_token  = '2og9ogezC8k.......5ZUEQQdB04t89/1O/w1cDnyilFU=';
+$channelSecret = '76ddda6eaee6bec5eda4388aa55221cd';
+$access_token  = '6aeLneKJ+9w36JIAyH8vidEF3dKO6u0QsYB4nlMmAtYh6/glfGqyO704L9cDIjSIqfte9PJitw7KtOJNYpKAJzWYixyu5O7Lm9YqMFpHUh+COF9gtNaRXeA9wKgOQsBzaX50F5TcrFEPaIqlO7AJoQdB04t89/1O/w1cDnyilFU=';
 
 $bot = new BOT_API($channelSecret, $access_token);
 	
